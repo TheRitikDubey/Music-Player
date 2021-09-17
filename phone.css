@@ -6,11 +6,11 @@
         box-sizing: border-box;
     }
     .track-name{
-            font-size: 1.5rem;
+            font-size: 1.2rem;
             font-weight: bolder;
     }
     .artist-name{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 }
 @media(max-width:320px)
