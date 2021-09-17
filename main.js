@@ -39,34 +39,34 @@ let track_list = [
   {
     name: "Software Engineer Anthem..",
     artist: "Gaurav Madaan",
-    image: "/Images/software_engineer.jpg",
-    path: "/Songs/Code Phat Gaya.mp3"
+    image: "Images/software_engineer.jpg",
+    path: "Songs/Code Phat Gaya.mp3"
 
   },
   {
     name: "Tera Ban Jaunga",
     artist: "Akhil Sachdeva and Tulsi Kumar",
-    image: "/Images/tera_ban_jaunga.jpg",
-    path: "/Songs/Tera Ban Jaunga.mp3",
+    image: "Images/tera_ban_jaunga.jpg",
+    path: "Songs/Tera Ban Jaunga.mp3",
   },
   {
     name: "MI Gente X Bollywood",
     artist: "DIVINE,EMIWAY BANTAI",
-    image: "/Images/MI_gente.jpg",
-    path: "/Songs/Machayenge X MI Gente X Sher Aaya Sher.mp3",
+    image: "Images/MI_gente.jpg",
+    path: "Songs/Machayenge X MI Gente X Sher Aaya Sher.mp3",
   },
 
   {
     name: "Let me Down slowly X Main Dhoondne",
     artist: "Arijit Singh X Alec Benjamin",
-    image: "/Images/let_me_down.jpg",
-    path: "/Songs/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein.mp3",
+    image: "Images/let_me_down.jpg",
+    path: "Songs/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein.mp3",
   },
   {
     name: "Let me Down slowly X Main Dhoondne",
     artist: "Arijit Singh X Alec Benjamin",
-    image: "/Images/let_me_down.jpg",
-    path: "/Songs/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein.mp3",
+    image: "Images/let_me_down.jpg",
+    path: "Songs/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein.mp3",
   },
 
 
