@@ -27,8 +27,8 @@ let track_list = [
   {
     name: "Tera Ban Jaaunga X Kho Gaye",
     artist: "Jasleen Royal , Akhil Sachdeva",
-    image: "/Images/kho_gya.jpg",
-    path: "/Songs/Tera Ban Jaaunga X Kho Gaye Hum Kahan X Dariya _ Lofi Mashup.mp3",
+    image: "Images/kho_gya.jpg",
+    path: "Songs/Tera Ban Jaaunga X Kho Gaye Hum Kahan X Dariya _ Lofi Mashup.mp3",
   },
   {
     name: "Night Owl",
